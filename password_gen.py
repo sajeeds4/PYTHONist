@@ -1,5 +1,10 @@
 # Random password generator
 
+####################################
+## AUTHOR : Gulam Mohammed Sajeed ##
+####################################
+
+
 import random
 import array
 
