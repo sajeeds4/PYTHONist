@@ -1,5 +1,9 @@
 # simple python program to mathematics operations
 
+####################################
+## Author : Gulam Mohammed Sajeed ##
+####################################
+
 import math
 
 def add(a, b):
@@ -34,16 +38,16 @@ def SumOfSeries(a) :
     sum = 0
     return sum
 
-########################################################
-print("Select the operation you want to perform")      #
-print("1. Addition")                                   #
-print("2. Subtraction")                                #
-print("3. Multiplication")                             #
-print("4. Division")                                   #
-print("5. Greater than or less than")                  #
-print("6. Factorial")                                  #
-print("7. Range of fibionci numbers")                  #
-########################################################
+#########################################################
+print("Select the operation you want to perform")      ##
+print("1. Addition")                                   ##
+print("2. Subtraction")                                ##
+print("3. Multiplication")                             ##
+print("4. Division")                                   ##
+print("5. Greater than or less than")                  ##
+print("6. Factorial")                                  ##
+print("7. Range of fibionci numbers")                  ##
+#########################################################
 
 
 while True :
@@ -92,3 +96,6 @@ while True :
 
     else :
         print("Invalid Input") 
+    ##################################################### 
+    ################### THE END #########################
+    #####################################################
